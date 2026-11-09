@@ -1,0 +1,10 @@
+{
+  "name": "linkedin-optimizer",
+  "description": "Rewrites and optimizes LinkedIn profiles for recruiter search and ATS: headline, About, Experience, Skills, Featured, keyword map, UVP and elevator pitch.",
+  "version": "1.0.0",
+  "author": { "name": "Arun Raghavan Menon", "url": "https://github.com/arunmenon1807" },
+  "homepage": "https://github.com/arunmenon1807/linkedin-optimizer",
+  "repository": "https://github.com/arunmenon1807/linkedin-optimizer",
+  "license": "MIT",
+  "keywords": ["linkedin", "career", "resume", "job-search", "ats", "recruiting", "personal-branding"]
+}

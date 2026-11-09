@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-optimizer",
+  "description": "LinkedIn profile optimizer for recruiter search and ATS, as a Claude Code skill and agent.",
+  "owner": {
+    "name": "Arun Raghavan Menon",
+    "url": "https://github.com/arunmenon1807"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-optimizer",
+      "source": "./",
+      "description": "Rewrites and optimizes LinkedIn profiles for recruiter search and ATS."
+    }
+  ]
+}
